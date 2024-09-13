@@ -13,18 +13,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anukurpandey786&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ankurpandey786&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=ankurpandey786&show_icons=true" />
-</picture>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankurpandey786&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
 
 
 
