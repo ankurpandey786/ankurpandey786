@@ -4,7 +4,7 @@
 
 
 <p align="center"><a href="https://ankurpandey.vercel.app"><img width="80%" alt="Hello, I'm Ankur, I do Full Stack And DSA." src="github-header-image.png" /></a></p>
-<h1 align="center">Hi 🤗, I'm Ankur Pandey</h1>
+
 <h3 align="center">Passionate about frontend and backend development as well as Data Structures and Algorithms.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankurpandey786&label=Profile%20views&color=0e75b6&style=flat" alt="ankurpandey786" /> </p>
