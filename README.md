@@ -38,6 +38,7 @@
 
 <div align="center">
     <!-- Replace with your skills -->
+    As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my       development arsenal. Here are the languages I wield to turn complex problems into elegant solutions
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/EJS-007396?style=for-the-badge&logo=EJS&logoColor=black" alt="EJS" />
     <img src="https://img.shields.io/badge/HTML-007396?style=for-the-badge&logo=HTML&logoColor=red" alt="HTML" />
