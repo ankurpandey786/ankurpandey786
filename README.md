@@ -21,7 +21,7 @@
 
 - 📝 Know more about me [ankurpandey.vercel.app](ankurpandey.vercel.app)
 
-- 💬 Ask me about **DSA,CS Core, BCI**
+- 💬 Ask me about **DSA, CS Core, BCI**
 
 - 📫 How to reach me **ankurpandey2701@gmail.com**
 
@@ -42,3 +42,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankurpandey786&show_icons=true&locale=en" alt="ankurpandey786" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankurpandey786&" alt="ankurpandey786" /></p>
+
+<p align="center">
+  <img src="https://tenor.com/en-IN/view/aftermath-gif-5529645451502763199" alt="fun-sticker" width="200" height="200"/>
+</p>
