@@ -42,8 +42,13 @@
     <img src="https://img.shields.io/badge/EJS-007396?style=for-the-badge&logo=EJS&logoColor=black" alt="EJS" />
     <img src="https://img.shields.io/badge/HTML-007396?style=for-the-badge&logo=HTML&logoColor=red" alt="HTML" />
     <img src="https://img.shields.io/badge/Javascript-007396?style=for-the-badge&logo=javascript&logoColor=green" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/CSS-007396?style=for-the-badge&logo=CSS&logoColor=blue" alt="CSS" />
+    <img src="https://img.shields.io/badge/Mongodb-007396?style=for-the-badge&logo=mongodb&logoColor=pink" alt="MongoDb" />
+    <img src="https://img.shields.io/badge/express-007396?style=for-the-badge&logo=express&logoColor=black" alt="Express" />
     
-    <!-- Add more badges similarly -->
+    
+   
 </div>
 
 
