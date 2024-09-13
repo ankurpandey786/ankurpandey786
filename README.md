@@ -61,5 +61,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankurpandey786&" alt="ankurpandey786" /></p>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/00511e22cd52364f4b83eddb34d2cd23dbfcf25e6407bfc9bcb0088eee768554/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f7a6764756f346b57525244564b2f67697068792e776562703f6369643d6563663035653437307571777133757030346a78317565667264397962693839716f6e3463753863743564367272616a2665703d76315f676966735f736561726368267269643d67697068792e776562702663743d67" alt="Tech Sticker" width="300"/>
+  <img src="https://github.com/sagar-viradiya/sagar-viradiya" alt="Tech Sticker" width="300"/>
 </p>
