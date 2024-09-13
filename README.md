@@ -18,59 +18,61 @@
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=ankurpandey786&theme=gruvbox&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ankurpandey786&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
 
-html, body {
-  width: 100%;
-  height: 100%;
-  overflow: hidden;
-  margin: 0;
-}
+<span>
+<article>
+<figure>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</figure>
+<figure>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</figure>
+<figure>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</figure>
+<figure>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</figure>
+</article>
 
-.holder {
-  position: relative;
-}
-
-@for $i from 1 through 4 {
-  .arm:nth-child(#{$i}) {
-    transform: rotate(($i - 1) * 90deg);
-    position: absolute;
-    width: 100%;
-    height: 100%;
-  }
-}
-
-.a {
-  width: 60px;
-  height: 60px;
-  border-radius: 12px;
-  position: absolute;
-}
-
-@for $i from 1 through 40 {
-  .a:nth-child(#{$i}) {
-      background-color: hsl(40 + 3 * $i, 55%, 50%);
-      transform: translate(30px * ($i - 1), 0);
-      animation: a#{$i} 4s infinite;
-      animation-delay: $i * .02s;
-  }
-
-  @keyframes a#{$i} {
-    0% {
-      transform: translate(30px * ($i - 1), 0);
-    }
-    30% {
-      transform: translate(10px, 10 * $i + px) rotate(60deg) scale($i * .009);
-    }
-    60% {
-      transform: translate(10 * $i + px, 10px) rotate(120deg) scale($i * .009);
-    }
-    80% {
-      transform: translate(0, 30px * ($i - 1)) scale($i * .009);
-    }
-    100% {
-      transform: translate(30px * ($i - 1), 0);
-    }
-  }
-}
+<article class="what">
+<figure>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</figure>
+<figure>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</figure>
+<figure>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</figure>
+<figure>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</figure>
+</article>
+</span>
 
 - 🔭 I’m currently working on **Brain Computer Interface for Assistance**
 
