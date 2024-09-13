@@ -24,6 +24,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ankurpandey786&count_private=true&theme=tokyonight&showicons=true)]()
 
 - 🔭 I’m currently working on **Brain Computer Interface for Assistance**
 
