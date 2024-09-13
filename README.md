@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-<p align="center"><a href="https://ankurpandey.vercel.app"><img width="80%" alt="Hello, I'm Ankur, I do Full Stack And DSA." src="[./assets/gh-readme-header.png](https://cloudinary-marketing-[res.cloudinary.com/images/w_1000,c_scale/v1710876096/add_image_to_readme_header/add_image_to_readme_header-png?_i=AA)](https://github.com/anuraghazra/anuraghazra/raw/master/assets/gh-readme-header.png)" /></a></p>
+<p align="center"><a href="https://ankurpandey.vercel.app"><img width="80%" alt="Hello, I'm Ankur, I do Full Stack And DSA." src="[[./assets/gh-readme-header.png](https://cloudinary-marketing-[res.cloudinary.com/images/w_1000,c_scale/v1710876096/add_image_to_readme_header/add_image_to_readme_header-png?_i=AA)](https://github.com/anuraghazra/anuraghazra/raw/master/assets/gh-readme-header.png)](https://www.bing.com/images/search?view=detailV2&ccid=nTKN%2fKDO&id=0123CD5C328404ED6E056F08894A58A50EDCB871&thid=OIP.nTKN_KDOXoNJBfFYj-rUjwHaCb&mediaurl=https%3a%2f%2fraw.githubusercontent.com%2fExcel-projects%2fServer-Help%2fmaster%2fImages%2fReadMe%2fheader.png&exph=506&expw=1538&q=.%2fassets%2fgh-readme-header.png&simid=608009903582947312&FORM=IRPRST&ck=965C2539E144AF1F9E413DE790F6F3FF&selectedIndex=63&itb=1)" /></a></p>
 <h1 align="center">Hi 🤗, I'm Ankur Pandey</h1>
 <h3 align="center">Passionate about frontend and backend development as well as Data Structures and Algorithms.</h3>
 
