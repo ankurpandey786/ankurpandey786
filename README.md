@@ -36,13 +36,16 @@
 
 - 📄 Know about my experiences [https://ankurpandey.vercel.app/Ankur_Pandey_CV.pdf](https://ankurpandey.vercel.app/Ankur_Pandey_CV.pdf)
 
-
 <div align="center">
-    <!-- Replace href with your links -->
-    <a href="https://www.linkedin.com/in/ankur-pandey/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
+    <!-- Replace with your skills -->
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=black" alt="EJS" />
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=red" alt="HTML" />
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=green" alt="JAvaScript" />
+    
+    <!-- Add more badges similarly -->
 </div>
+
 
 
 <h3 align="left">Connect with me:</h3>
