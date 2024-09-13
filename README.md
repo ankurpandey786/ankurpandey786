@@ -5,13 +5,25 @@
 
 <p align="center"><a href="https://ankurpandey.vercel.app"><img width="80%" alt="Hello, I'm Ankur, I do Full Stack And DSA." src="github-header-image.png" /></a></p>
 
-<h3 align="center">Passionate about frontend and backend development as well as Data Structures and Algorithms.</h3>
+<h3 align="center">🥸Passionate about frontend and backend development as well as Data Structures and Algorithms.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankurpandey786&label=Profile%20views&color=0e75b6&style=flat" alt="ankurpandey786" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankurpandey786" alt="ankurpandey786" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 - 🔭 I’m currently working on **Brain Computer Interface for Assistance**
 
