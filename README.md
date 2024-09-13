@@ -61,5 +61,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankurpandey786&" alt="ankurpandey786" /></p>
 
 <p align="center">
-  <img src="https://media.tenor.com/images/fc3d5c3a1a8edc97b2a4593a7d6d64ee/tenor.gif" alt="Fun Sticker 2" width="300"/>
+  <img src="https://cdn.shopify.com/s/files/1/0649/1363/products/Mockup1_Table_7eb235b1-627a-4336-95aa-6023cb2907d1_1024x1024@2x.jpg?v=1612408573" alt="Tech Sticker" width="300"/>
 </p>
