@@ -15,7 +15,7 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankurpandey786&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
-
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=ankurpandey786&theme=gruvbox&hide_border=true)
 
 
 - 🔭 I’m currently working on **Brain Computer Interface for Assistance**
