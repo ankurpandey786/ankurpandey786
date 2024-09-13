@@ -39,9 +39,9 @@
 <div align="center">
     <!-- Replace with your skills -->
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=black" alt="EJS" />
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=red" alt="HTML" />
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=green" alt="JAvaScript" />
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=EJS&logoColor=black" alt="EJS" />
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=HTML&logoColor=red" alt="HTML" />
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=javascript&logoColor=green" alt="JavaScript" />
     
     <!-- Add more badges similarly -->
 </div>
