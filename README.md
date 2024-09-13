@@ -1,5 +1,5 @@
 
-![Header](./github-header-image.png)
+
 # Hey there :wave:
 
 
