@@ -63,12 +63,8 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankurpandey786&show_icons=true&locale=en&layout=compact" alt="ankurpandey786" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankurpandey786&show_icons=true&locale=en" alt="ankurpandey786" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankurpandey786&" alt="ankurpandey786" /></p>
 
-<p align="center">
-  <img src="https://github.com/sagar-viradiya/sagar-viradiya" alt="Tech Sticker" width="300"/>
-</p>
+
+
