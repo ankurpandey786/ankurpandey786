@@ -5,7 +5,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/ankurpandey786/count.svg" />
 </p>
 <h1 align="center">Hi 🤗, I'm Ankur Pandey</h1>
 <h3 align="center">Passionate about frontend and backend development as well as Data Structures and Algorithms.</h3>
