@@ -35,10 +35,9 @@
 - 📫 How to reach me **ankurpandey2701@gmail.com**
 
 - 📄 Know about my experiences [https://ankurpandey.vercel.app/Ankur_Pandey_CV.pdf](https://ankurpandey.vercel.app/Ankur_Pandey_CV.pdf)
-
+<p align="left"> <img src="language.png" alt="ankurpandey786" /> </p>
 <div align="center">
     <!-- Replace with your skills -->
-    Programming Language
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/EJS-007396?style=for-the-badge&logo=EJS&logoColor=black" alt="EJS" />
     <img src="https://img.shields.io/badge/HTML-007396?style=for-the-badge&logo=HTML&logoColor=red" alt="HTML" />
@@ -47,7 +46,7 @@
     <img src="https://img.shields.io/badge/CSS-007396?style=for-the-badge&logo=CSS&logoColor=blue" alt="CSS" />
     <img src="https://img.shields.io/badge/Mongodb-007396?style=for-the-badge&logo=mongodb&logoColor=pink" alt="MongoDb" />
     <img src="https://img.shields.io/badge/express-007396?style=for-the-badge&logo=express&logoColor=black" alt="Express" />   
-    As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my       development arsenal. Here are the languages I wield to turn complex problems into elegant solutions
+    
    
 </div>
 
