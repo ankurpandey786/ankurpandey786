@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-<p align="center"><a href="https://ankurpandey786.github.io"><img width="80%" alt="Hello, I'm Ankur. I do Full Stack And DSA!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://ankurpandey.vercel.app"><img width="80%" alt="Hello, I'm Ankur. I do Full Stack And DSA!" src="./assets/gh-readme-header.png" /></a></p>
 <h1 align="center">Hi 🤗, I'm Ankur Pandey</h1>
 <h3 align="center">Passionate about frontend and backend development as well as Data Structures and Algorithms.</h3>
 
