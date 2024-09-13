@@ -2,9 +2,8 @@
 ![Header](./github-header-image.png)
 # Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-<p align="center"><a href="https://ankurpandey.vercel.app"><img width="80%" alt="Hello, I'm Ankur, I do Full Stack And DSA." src="[https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png](https://www.bing.com/images/search?view=detailV2&ccid=7skMCTw%2b&id=02877C56EDE69361A8EB528D633C594A3346D805&thid=OIP.7skMCTw-inpzTPfGN4z_SwHaD3&mediaurl=https%3a%2f%2fcloudinary-marketing-res.cloudinary.com%2fimages%2fw_1000%2cc_scale%2fv1710876096%2fadd_image_to_readme_header%2fadd_image_to_readme_header-png%3f_i%3dAA&exph=523&expw=1000&q=.%2fassets%2fgh-readme-header.png&simid=607991800309484045&FORM=IRPRST&ck=2955C40B5C7F00BC2BD88619571E4FA6&selectedIndex=5&itb=1&qpvt=.%2fassets%2fgh-readme-header.png)" /></a></p>
+<p align="center"><a href="https://ankurpandey.vercel.app"><img width="80%" alt="Hello, I'm Ankur, I do Full Stack And DSA." src="github-header-image.png" /></a></p>
 <h1 align="center">Hi 🤗, I'm Ankur Pandey</h1>
 <h3 align="center">Passionate about frontend and backend development as well as Data Structures and Algorithms.</h3>
 
