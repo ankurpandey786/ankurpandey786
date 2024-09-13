@@ -17,13 +17,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<p>
-    <img src='https://media.tenor.com/7pyDepP8SOQAAAAM/cat-wif.gif' align='right'>
-</p>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankurpandey786&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=ankurpandey786&theme=gruvbox&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ankurpandey786&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
 
+
+<p>
+    <img src='https://media.tenor.com/KRIGLPCuG-4AAAAM/earth-planet.gif' align='right'>
+</p>
 - 🔭 I’m currently working on **Brain Computer Interface for Assistance**
 
 - 🌱 I’m currently learning **MERN, Vite, Git, API**
