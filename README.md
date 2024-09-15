@@ -8,7 +8,7 @@
 <div align="center">
     <h2>🚀 About Me</h2>
     <h3 align="center">🥸Passionate about frontend and backend development as well as Data Structures and Algorithms.My goal is to continue pushing the boundaries of technology and contribute to innovative solutions in the tech industry🫡</h3>
-
+ 
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankurpandey786&label=Profile%20views&color=0e75b6&style=flat" alt="ankurpandey786" /> </p>
